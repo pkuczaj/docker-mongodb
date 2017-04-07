@@ -1,5 +1,5 @@
 # docker-mongodb
-MongoDB 3.0 Docker Image Build
+MongoDB 3.0 Docker Image Build (Running on Centos 7)
 
 Build the image: (Only Once or when you want to refresh the build)
 
