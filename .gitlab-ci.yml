@@ -1,0 +1,8 @@
+master:
+  stage: deploy
+  script: sudo /runners/docker/buildMongoDB
+  tags:
+    - webServer
+  only:
+    - master
+
